@@ -13,7 +13,8 @@ Dialog is an abstract class with one abstract factory method that depends on the
 
 ![img.png](img.png)
 
-P.S. Example is from awesome website [Refactoring Guru](https://refactoring.guru)
+## Other
 
-P.S.2 There is another example attached from Hyperskill (burger store)
+- Example is from awesome website [Refactoring Guru](https://refactoring.guru)
+- There is another example attached from Hyperskill (Burger bar)
 
